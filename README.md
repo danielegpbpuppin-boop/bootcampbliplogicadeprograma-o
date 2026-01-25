@@ -1,5 +1,5 @@
 Projeto simples criado com o obejtivo de praticar a lógica de programação com os seguintes itens: variáveis, operadores, laços de repetição e estruturas de decisão. 
-###Atividade desenvolvida do desafio
+###Atividade desenvolvida do desafio: 
 Crie uma variável para armazenar o nome e a quantidade de experiência (XP) de um herói, depois utilize uma estrutura de decisão para apresentar alguma das mensagens abaixo:
 Se XP for menor do que 1.000 = Ferro
 Se XP for entre 1.001 e 2.000 = Bronze
